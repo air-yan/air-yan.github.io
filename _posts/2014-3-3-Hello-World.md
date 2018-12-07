@@ -3,8 +3,9 @@ layout: post
 title: About Me
 published: true
 ---
-Do you enjoy the feeling of completing a project _but your daily work is in fact repetitive and brainless_?
-Do you have a passion on something but just _can't take the first step because of your past unrelated university experience_?
+- Do you enjoy the feeling of completing a project but your daily work is in fact _repetitive and brainless_?
+- Do you have a passion on something but just can't take the first step because of your _past unrelated university experience_?
+
 
 I graduated at BISU in English majoy. After that, I went to AUT and got a master degree in professional accounting. What's after that is really interesting - during my first year's work as a company accountant, I unintentionally turned myself into a BI Analyst... I guess it's the curiosity that counts in learning. And this is where I discovered my passion for data and programming.
 
