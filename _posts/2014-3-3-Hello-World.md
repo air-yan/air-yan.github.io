@@ -8,7 +8,7 @@ Do you have a passion on something but just _can't take the first step because o
 
 I graduated at BISU in English majoy. After that, I went to AUT and got a master degree in professional accounting. What's after that is really interesting - during my first year's work as a company accountant, I unintentionally turned myself into a BI Analyst... I guess it's the curiosity that counts in learning. And this is where I discovered my passion for data and programming.
 
-With a determined mind, I started a long journey to become a data analytic in accounting area (data scientist if I'm lucky xD). I've been working on it since 04/05/2018. The current objective for me is to practice machine learning techniques with real world projects and learn deep learning on the way.
+With a determined mind, I started a long journey to become a data analyst in accounting area (data scientist if I'm lucky xD). I've been working on it since 04/05/2018. The current objective for me is to practice machine learning techniques with real world projects and learn deep learning on the way.
 
 It sounds a little crazy, did it? I think so too. 
 
