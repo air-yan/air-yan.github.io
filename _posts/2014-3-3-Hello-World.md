@@ -1,14 +1,15 @@
 ---
 layout: post
 title: About Me
-published: false
+published: true
 ---
-Do you enjoy the feeling of completing a project but your daily work is in fact repetitive and brainless?
-Do you have a real patience on something but just can't take the first step because of your past unrelated experience?
+Do you enjoy the feeling of completing a project _but your daily work is in fact repetitive and brainless_?
+Do you have a passion on something but just _can't take the first step because of your past unrelated university experience_?
 
-I graduated at BISU in English majoy. After that, I went to AUT and got a master degree in professional accounting. What's really funny is that during my first year's work as an accountant, I unintentionally turned myself into a BI Analyst.
+I graduated at BISU in English majoy. After that, I went to AUT and got a master degree in professional accounting. What's after that is really interesting - during my first year's work as a company accountant, I unintentionally turned myself into a BI Analyst... I guess it's the curiosity that counts in learning. And this is where I discovered my passion for data and programming.
 
-With a determined mind, I set my new goal as a data analyst and
-now I'm learining machine learning and deep learning with python.
+With a determined mind, I started a long journey to become a data analytic in accounting area (data scientist if I'm lucky xD). I've been working on it since 04/05/2018. The current objective for me is to practice machine learning techniques with real world projects and learn deep learning on the way.
 
-It sounds crazy, did it? If you have any interests in data analyst in accounting and believe that one can turn the patience into reality, you are more than welcome to read and share my posts.
+It sounds a little crazy, did it? I think so too. 
+
+What I wanna say is that if you already have a bad position in your life but believe that one can turn one's passion into reality, you are not alone.
