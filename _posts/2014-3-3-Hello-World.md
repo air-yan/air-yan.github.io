@@ -11,6 +11,6 @@ I graduated at BISU in English majoy. After that, I went to AUT and got a master
 
 With a determined mind, I started a long journey to become a data analyst in accounting area (data scientist if I'm lucky xD). I've been working on it since 04/05/2018. The current objective for me is to practice machine learning techniques with real world projects and learn deep learning on the way.
 
-It sounds a little crazy, did it? I think so too. 
+It sounds a little crazy, didn't it? I think so too. 
 
 What I wanna say is that if you already have a bad position in your life but believe that one can turn one's passion into reality, you are not alone.
