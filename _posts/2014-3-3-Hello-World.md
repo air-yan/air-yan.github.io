@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: About Me
+published: false
 ---
+Do you enjoy the feeling of completing a project but your daily work is in fact repetitive and brainless?
+Do you have a real patience on something but just can't take the first step because of your past unrelated experience?
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I graduated at BISU in English majoy. After that, I went to AUT and got a master degree in professional accounting. What's really funny is that during my first year's work as an accountant, I unintentionally turned myself into a BI Analyst.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+With a determined mind, I set my new goal as a data analyst and
+now I'm learining machine learning and deep learning with python.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+It sounds crazy, did it? If you have any interests in data analyst in accounting and believe that one can turn the patience into reality, you are more than welcome to read and share my posts.
