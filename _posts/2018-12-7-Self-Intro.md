@@ -11,4 +11,4 @@ I have a bachelor degree in Inter-culture Communication of English and a master 
 
 This blog is used to share useful learning notes and real accounting analysis/automation projects.
 
-If believe that one can turn one's passion into reality, you are not alone.
+If you believe that one can turn one's passion into reality, you are not alone.
