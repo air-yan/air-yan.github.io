@@ -6,6 +6,8 @@ published: true
 **请注意** 本文是我翻译的一份学习资料，英文原版请点击 [这里](https://wei2624.github.io/MachineLearning/sv_generative_model/)。
 
 
+
+-----------------
 **生成学习算法**
 
 **页面导航**
