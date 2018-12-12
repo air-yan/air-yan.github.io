@@ -3,14 +3,12 @@ layout: post
 title: About Me
 published: true
 ---
-- Do you enjoy the feeling of completing a project but your daily work is in fact _repetitive and brainless_?
-- Do you have a passion on something but just can't take the first step because of your _past unrelated university experience_?
+Hi I'm Zishi. I'm from Beijing, China.
 
+Currently, I'm working as an accountant in a fast growing American SaaS company (1.5-year working experience). Not like traditional accountants, I write python and VBA codes and develop programs and tools to automate our accounting working process. I also develop BI reports and online/offline dashboard for accounting ERP systems. It makes me more like a data analyst.
 
-I graduated at BISU in English major. After that, I went to AUT and got a master degree in professional accounting. What's after that is really interesting - during my first year's work as a company accountant, I unintentionally turned myself into a BI Analyst... I guess it's the curiosity that counts in learning. And this is where I discovered my passion for data and programming.
+I have a bachelor degree in Inter-culture Communication of English and a master degree of Professional Accounting. None of them are related to math, programing and data analysis but it does not stops me from learning them. After I graduated, I learned Python, SQL and VBA and am able to use them in work. I also got a certificate of [Data Analytics Foundations for Accountancy II](https://www.coursera.org/account/accomplishments/certificate/RK83Y97QPK8G) in coursera which means I am ready to use machine learning techniques to do some real world projects.
 
-With a determined mind, I started a long journey to become a data analyst in accounting area (data scientist if I'm lucky xD). I've been working on it since 04/05/2018. The current objective for me is to practice machine learning techniques with real world projects and learn deep learning on the way.
+This blog is used to share useful learning notes and real accounting analysis/automation projects.
 
-It sounds a little crazy, didn't it? I think so too. 
-
-What I wanna say is that if you already have a bad position in your life but believe that one can turn one's passion into reality, you are not alone.
+If believe that one can turn one's passion into reality, you are not alone.
