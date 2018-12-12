@@ -46,7 +46,7 @@ published: true
 
 在多元正态分布中，一个随机变量是一个在维度为n的R<sub>n</sub>空间中的矢量值。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中$ \\ Sigma是对称的半正定矩阵。其概率密度函数为：
 
-![image001.png](https://github.com/air-yan/air-yan.github.io/blob/master/_posts/image001.png)
+![image001.png](image001.png)
 
 如上所述，μ是期望值。
 
