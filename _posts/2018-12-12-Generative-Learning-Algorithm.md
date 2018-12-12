@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **生成学习算法**
