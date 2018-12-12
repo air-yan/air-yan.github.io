@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-**Please note** This is a Chinese translation for a study note in Wei's homepage. Click [here](https://wei2624.github.io/MachineLearning/sv_generative_model/) to see the original English version.
+**Please note** This post is a study note translated to Chinese by me. Click [here](https://wei2624.github.io/MachineLearning/sv_generative_model/) to see the original English version in Wei's homepage.
 
-**请注意** 本文是一份学习资料的中文翻译，英文原版请点击 [这里](https://wei2624.github.io/MachineLearning/sv_generative_model/)。
+**请注意** 本文是我翻译的一份学习资料，英文原版请点击 [这里](https://wei2624.github.io/MachineLearning/sv_generative_model/)。
 
 
 **生成学习算法**
