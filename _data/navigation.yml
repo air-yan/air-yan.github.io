@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: https://wei2624.github.io/
+    url: https://air-yan.github.io/
   - title: "CV"
-    url: https://wei2624.github.io/CV/
+    url: https://air-yan.github.io/CV/
   - title: "Research"
-    url: https://wei2624.github.io/research/
+    url: https://air-yan.github.io/research/
   - title: "Blog"
-    url: https://wei2624.github.io/blog/
+    url: https://air-yan.github.io/blog/
   - title: "Categories"
-    url: https://wei2624.github.io/categories/
+    url: https://air-yan.github.io/categories/
   - title: "Tags"
-    url: https://wei2624.github.io/tags/
+    url: https://air-yan.github.io/tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
