@@ -1,0 +1,67 @@
+Things to change:
+
+_config.yml:
+	title                    : "Wei's Homepage"
+	title_separator          : "-"
+	name                     : "Wei Zhang"
+	description              : "An amazing website."
+	url                      : "https://wei2624.github.io"
+
+
+	search                   : true # true, false (default)
+	search_full_content      : true # true, false (default)
+	search_provider          : google # lunr (default), algolia, google
+	algolia:
+	  application_id         : # YOUR_APPLICATION_ID
+	  index_name             : # YOUR_INDEX_NAME
+	  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+	  powered_by             : # true (default), false
+	google:
+	  search_engine_id       : 014843779386163399025:aznpcua4dva # YOUR_SEARCH_ENGINE_ID
+	  instant_search         : true # false (default), true
+
+
+
+
+	analytics:
+	provider               : "google" # false (default), "google", "google-universal", "custom"
+	google:
+	  tracking_id          : UA-124702864-1
+
+
+	author:
+	name             : "Wei Zhang"
+	avatar           : "/assets/images/wei_square_github.jpg"
+	bio              : ""
+	location         : "New York"
+	email            : #"wz2363@columbia.edu"
+	links:
+	  - label: "Email"
+	    icon: "fas fa-fw fa-envelope-square"
+	    url: mailto:wz2363@columbia.edu
+	  - label: "Website"
+	    icon: "fas fa-fw fa-link"
+	    url: "https://wei2624.github.io"
+	  - label: "Twitter"
+	    icon: "fab fa-fw fa-twitter-square"
+	    url: "https://twitter.com/WeiKB24"
+	  - label: "Facebook"
+	    icon: "fab fa-fw fa-facebook-square"
+	    # url: "https://facebook.com/"
+	   - label: "GitHub"
+	      icon: "fab fa-fw fa-github"
+	     url: "https://github.com/Wei2624"
+	    - label: "WeChat"
+	     icon: "fab fa-weixin"
+	      # url: "/images/WechatID.jpeg"
+	   - label: "Zhihu"
+	      icon: "fab fa-zhihu"
+	      url: "/images/zhihu_qr.jpeg"
+
+
+
+
+_pages/index.md
+
+
+
