@@ -8,9 +8,9 @@ category: Machine Learning
 excerpt: "This post is a translation for one of Wei's posts in his machine learning notes."
 title: Generative Learning Algorithm in Chinese
 ---
-**Please note** This post is a study note translated to Chinese by me. Click [here](https://wei2624.github.io/MachineLearning/sv_generative_model/) to see the original English version in Wei's homepage.
+Please note this post is a study note translated to Chinese by me. Click [here](https://wei2624.github.io/MachineLearning/sv_generative_model/) to see the original English version in Wei's homepage.
 
-**请注意** 本文是我翻译的一份学习资料，英文原版请点击 [这里](https://wei2624.github.io/MachineLearning/sv_generative_model/)。
+请注意: 本文是我翻译的一份学习资料，英文原版请点击[Wei的学习笔记](https://wei2624.github.io/MachineLearning/sv_generative_model/)。
 
 
 
