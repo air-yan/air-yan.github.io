@@ -52,23 +52,23 @@ published: true
 
 在多元正态分布中，一个随机变量是一个在维度为n的R<sub>n</sub>空间中的矢量值。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中$ \\ Sigma是对称的半正定矩阵。其概率密度函数为：
 
-![image001.png](image001.png)
+![image001.png](/_posts/001.png)
 
 如上所述，μ是期望值。
 
 向量值随机变量Z的协方差为：
 
-![image003.png](image003.png)
+![image003.png](/_posts/003.png)
 
 
 下图显示了均值为零但不同协方差的几个密度函数。
 
-![image005.png](image005.png)
+![image005.png](/_posts/005.png)
 
 
 以下为上图的协方差（从左到右）：
 
-![image007.png](image007.png)
+![image007.png](/_posts/007.png)
 
 
 
@@ -79,7 +79,7 @@ published: true
 
 我们再来谈谈二元分类的问题，我们可以用多元高斯模型对p(x|y)进行建模。 总的来讲，我们有：
 
-![image009.png](image009.png)
+![image009.png](/_posts/009.png)
 
 
 其中φ，μ<sub>0</sub>，μ<sub>1</sub>，Σ是我们想要找出的参数。 请注意，虽然我们对不同的类有不同的均值，但我们在不同的类之间有着共享的协方差。
@@ -88,61 +88,61 @@ published: true
 
 所以，该数据的对数似然函数值是：
 
-![image011.png](image011.png)
+![image011.png](/_posts/011.png)
 
 在上面的等式中，我们插入各个分布而不指明任何类，我们仅将它们抽象为k。所以我们有：
 
-![image013.png](image013.png)
+![image013.png](/_posts/013.png)
 
 
 现在，我们需要对每个参数进行取导，然后将它们设为零找到 argmax（函数值最大时对应的输入值x）。 一些可能对推导有用的公式列举如下：
 
-![image015.png](image015.png)（如果A是对称的并且与x相互独立）
+![image015.png](/_posts/015.png)（如果A是对称的并且与x相互独立）
 
 
 
 
-![image017.png](image017.png)
+![image017.png](/_posts/017.png)
 -----------------
 
 **证明：**
 矩阵A是对称矩阵，所以 *A*= *A*<sup>T</sup>并假设空间维度为n。
 
-![image019.png](image019.png)
+![image019.png](/_posts/019.png)
 
 雅可比公式：
 
-![image021.png](image021.png)
+![image021.png](/_posts/021.png)
 
 **证明：**
 
-![image023.png](image023.png)
+![image023.png](/_posts/023.png)
 
 **证明：**
 
 这个证明有些复杂。你应该事先了解克罗内克函数和Frobenius内部乘积。对于矩阵X，我们可以写成：
 
-![image025.png](image025.png)
+![image025.png](/_posts/025.png)
 
 你可以将H视为Frobenius内积的标识元素。在开始证明之前，让我们准备好去找逆矩阵的导数。也就是说，∂X<sup>-1</sup>/∂X。
 
-![image027.png](image027.png)
+![image027.png](/_posts/027.png)
 
 
 
 所以我们可以这么解：
 
-![image029.png](image029.png)
+![image029.png](/_posts/029.png)
 
 接着，让我们回到正题：
 
-![image031.png](image031.png)
+![image031.png](/_posts/031.png)
 
 其中F表示Frobenius内积。
 
 接着，带回到原始公式：
 
-![image033.png](image033.png)
+![image033.png](/_posts/033.png)
 
 
 
@@ -152,22 +152,22 @@ published: true
 
 对ϕ取导并设为0：
 
-![image035.png](image035.png)
+![image035.png](/_posts/035.png)
 
 
 对 μk取导并设为0：
 
-![image037.png](image037.png)
+![image037.png](/_posts/037.png)
 
 
 对 Σ 取导并设为0:
 
-![image039.png](image039.png)
+![image039.png](/_posts/039.png)
 
 
 结果如图所示：
 
-![image041.png](image041.png)
+![image041.png](/_posts/041.png)
 
 
 请注意，由于有着共享协方差，因此上图两个轮廓的形状是相同的，但均值则不同。 在边界线上（自左上到右下的直线），每个类的概率为50%。
@@ -176,7 +176,7 @@ published: true
 
 高斯判别分析是如何与逻辑回归相关联的呢？我们可以发现如果上述p(x|y) 是具有共享协方差的多元高斯，我们就可以计算p(x|y)然后发现它是遵循逻辑函数的。要证明这一点，我们可以：
 
-![image043.png](image043.png)
+![image043.png](/_posts/043.png)
 
 ###
 
@@ -198,26 +198,26 @@ published: true
 
 基于给定分类下，每个词彼此间条件独立。
 
-于是，我们有：![image045.png](image045.png)
+于是，我们有：![image045.png](/_posts/045.png)
 
 
 我们对第一步应用**概率论中的链式法则**，对第二步应用朴素贝叶斯假设。
 
 找到对数似然函数值的最大值：
 
-![image047.png](image047.png)
+![image047.png](/_posts/047.png)
 
 
 其中 ϕ<sub>j|y=1</sub> = P (x<sub>j</sub>=1|y=1)，ϕ <sub>j|y=1</sub> = P(x<sub>j</sub>=1|y=1), ϕ<sub>j|y=0</sub> = P(x<sub>j</sub>=1|y=0) 并且 ϕ<sub>y</sub>= p(y=1)。 这些是我们需要训练的参数。
 
 我们可以对其求导:
 
-![image049.png](image049.png)
+![image049.png](/_posts/049.png)
 
 
 为了预测新样本，我们可以使用**贝叶斯法则**来计算P（y = 1 | x）并比较哪个更高。
 
-![image051.png](image051.png)
+![image051.png](/_posts/051.png)
 
 
 **延伸**: 在这种情况下，因为y是二进制值（0，1），我们将P（x<sub>i</sub> | y）建模为伯努利分布。 也就是说，它可以是“有那个词”或“没有那个词”。 伯努利将类标签作为输入并对其概率进行建模，前提是它必须是二进制的。 如果是处理非二进制值X<sub>i</sub>，我们可以将其建模为多项式分布，多项式分布可以对多个类进行参数化。
@@ -230,7 +230,7 @@ published: true
 
 这时我们则需要另一个解决方案，其名为**拉普拉斯平滑**，它将每个参数设置为：
 
-![image053.png](image053.png)
+![image053.png](/_posts/053.png)
 
 
 其中k是类的数量。 在实际操作中，拉普拉斯平滑并没有太大的区别，因为我们的模型中通常包含了所有的单词，但有一个备用计划总是极好的！😊
