@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 category: Machine Learning
 excerpt: "This post is a translation for one of Wei's posts in his machine learning notes."
-title: Machine Learning Translation to Chinese
+title: Generative Learning Algorithm in Chinese
 ---
 **Please note** This post is a study note translated to Chinese by me. Click [here](https://wei2624.github.io/MachineLearning/sv_generative_model/) to see the original English version in Wei's homepage.
 
