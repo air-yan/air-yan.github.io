@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: https://air-yan.github.io/
-  - title: "CV"
-    url: https://air-yan.github.io/CV/
+#   - title: "CV"
+#     url: https://air-yan.github.io/CV/
 #   - title: "Research"
 #     url: https://air-yan.github.io/research/
   - title: "Blog"
     url: https://air-yan.github.io/blog/
   - title: "Categories"
-#     url: https://air-yan.github.io/categories/
+    url: https://air-yan.github.io/categories/
 #   - title: "Tags"
 #     url: https://air-yan.github.io/tags/
   # - title: "Sample Collections"
