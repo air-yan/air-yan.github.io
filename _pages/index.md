@@ -6,6 +6,7 @@ classes: wide
 permalink: /
 ---
 
+
 Hi I'm Zishi. I'm from Beijing, China. Currently, I'm working as an accountant in a fast growing American SaaS company - [AvePoint](https://www.avepoint.com/about/) (1.5-year working experience). AvePoint is a Microsoft Global ISV Partner and has been named to the Inc. 500|5000 six times and the Deloitte Technology Fast 500™ five times.
 
 Not like traditional accountants, I write python and VBA codes and develop programs and tools to automate our accounting working process. I also develop BI reports and online/offline dashboard for accounting ERP systems. It makes me more like a data analyst.
