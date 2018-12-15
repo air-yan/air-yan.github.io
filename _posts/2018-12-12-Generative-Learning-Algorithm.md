@@ -89,7 +89,6 @@ title: Machine Learning Translation to Chinese
 
 
 ![image017.png](/images/Generative_Images/image017.png)
------------------
 
 **证明：**
 矩阵A是对称矩阵，所以 *A*= *A*<sup>T</sup>并假设空间维度为n。
@@ -134,7 +133,6 @@ title: Machine Learning Translation to Chinese
 
 现在，我们已经有足够的准备去找到每个参数的梯度了。
 
------------------
 
 对ϕ取导并设为0：
 
