@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/air-yan"
     - label: " Linkedin"
-      icon: "fab fa-linkedin-in"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/airyan030"
     - label: "WeChat"
       icon: "fab fa-weixin"
