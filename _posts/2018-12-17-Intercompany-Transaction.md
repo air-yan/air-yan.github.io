@@ -74,7 +74,7 @@ Specifically:
 
 To view the explanation and solution code in a Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
 
-To view the code in a python file, click[here](https://github.com/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.py).
+To view the code in a python file, click [here](https://github.com/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.py).
 
 To test the solution, put the python file or jupyter notebook and the Excel file in a same directory and run the codes. You will find several csv files generated in the same directory.
 
