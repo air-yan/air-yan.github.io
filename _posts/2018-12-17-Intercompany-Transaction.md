@@ -41,7 +41,7 @@ For example, Lisa, a marketing specialist of your company, is going to host a la
 
 Memo: Lisa's campaign cost in U.S. (Lisa is a DE employee)
 
-(We assume the above part of job has been fully automated but the below part has yet to be automated.)
+We assume the above has been fully automated and the below has yet to be automated.
 
 ### Intercompany Transaction Journal
 However, because Lisa is not an employee from your US subsidiary but an employee from your German subsidiary, these expenses are actually paid by DE. For some reasons, she spent this money out of her pocket *or* from her German Corporate Credit Card. So this bill is recorded back to her own company - the German subsidiary.
