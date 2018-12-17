@@ -9,9 +9,7 @@ excerpt: "This post is to demonstrate how we can use Python to generate intercom
 title: Accounting Automation - Intercompany Transactions
 ---
 
-# Python Automation for Intercompany Transactions
-
-## Intro and Preparation
+# Intro and Preparation
 
 This post demonstrates how we can use Python and Pandas library to help us do intercompany transaction journal entries automatically. The scenario and the requirement in this post is easy to understand. In real life, it can be more complex and need extra lines of codes to be solved.
 
@@ -24,11 +22,11 @@ To make it easier to test and use your code, you can have
 - Sublime Text
 - Pyinstaller (to give this code to your colleagues who have no programing experience)
 
-## Accounting Requirement (scenario)
+# Accounting Requirement (scenario)
 
 *You can quickly scan through or skip this part if you are well knowledged in intercompany transaction.*
 
-### Bill
+## Bill
 
 We have expenses incurred in one subsidiary.
 
@@ -43,7 +41,7 @@ Memo: Lisa's campaign cost in U.S. (Lisa is a DE employee)
 
 We assume the above has been fully automated and the below has yet to be automated.
 
-### Intercompany Transaction Journal
+## Intercompany Transaction Journal
 However, because Lisa is not an employee from your US subsidiary but an employee from your German subsidiary, these expenses are actually paid by DE. For some reasons, she spent this money out of her pocket *or* from her German Corporate Credit Card. So this bill is recorded back to her own company - the German subsidiary.
 
 Based on the above bill, the global accounting team needs to record an intercompany transaction journal, which includes four lines of entries, to transfer this expense from DE to US:
@@ -57,7 +55,7 @@ Based on the above bill, the global accounting team needs to record an intercomp
 
 Memo: Lisa's campaign cost in U.S.
 
-### Requirement
+## Requirement
 
 1. Given a list of bills, classify them into different groups according to:
    - IC (intercompany) from subsidiary, the employee payroll sub -- it's DE in the above case
@@ -67,6 +65,6 @@ Memo: Lisa's campaign cost in U.S.
 3. Apply core function to each above group to create IC transactions
 4. For each "IC from subsidiary", create a csv file
 
-### Jupyter Notebook
-To view the Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
+# Jupyter Notebook
+To view the solution in a Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
 
