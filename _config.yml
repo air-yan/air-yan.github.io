@@ -114,6 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/air-yan"
+    - label: " Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/airyan030"
     - label: "WeChat"
       icon: "fab fa-weixin"
       # url: "/images/WechatID.jpeg"
@@ -123,9 +126,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: " Linkedin"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/airyan030"
+
 
 # Site Footer
 footer:
