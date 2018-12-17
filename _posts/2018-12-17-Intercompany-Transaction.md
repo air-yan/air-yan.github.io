@@ -40,6 +40,7 @@ For example, Lisa, a marketing specialist of your company, is going to host a la
 |DE|Account Payable to Credit Card|   | $10,000.00  | Bill |
 
 Memo: Lisa's campaign cost in U.S. (Lisa is a DE employee)
+
 (We assume the above part of job has been fully automated but the below part has yet to be automated.)
 
 ### Intercompany Transaction Journal
