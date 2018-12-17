@@ -118,11 +118,14 @@ author:
       icon: "fab fa-weixin"
       # url: "/images/WechatID.jpeg"
     - label: "Zhihu"
-      icon: "fab fa-zhihu"
+      icon: "fab fa-linkedin-in"
       # url: "/images/zhihu_qr.jpeg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-instagram"
+      url: "www.linkedin.com/in/airyan030"
 
 # Site Footer
 footer:
