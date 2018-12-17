@@ -60,9 +60,9 @@ Memo: Lisa's campaign cost in U.S.
 ### Requirement
 
 1. Given a list of bills, classify them into different groups according to:
-   - IC (intercompany) from subsidiary
-   - Bill reference number
-   - IC to subsidiary
+   - IC (intercompany) from subsidiary, the employee payroll sub -- it's DE in the above case
+   - Bill reference number -- unique key for bills
+   - IC to subsidiary -- it's US in the above case
 2. Create core function to transfer bills into IC transactions
 3. Apply core function to each above group to create IC transactions
 4. For each "IC from subsidiary", create a csv file
