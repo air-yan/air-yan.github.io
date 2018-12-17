@@ -32,20 +32,20 @@ To make it easier to test and use your code, you can have
 
 We have expenses incurred in one subsidiary.
 
-For example, we have a marketing specialist Lisa who is going to host a large marketing campaign in US for the development of US business. She spent some money on this campaign so we should record it in the expense system like this. 
+For example, Lisa, a marketing specialist of your company, is going to host a large marketing campaign in US for the development of US business. She spent some money on this campaign so you can record it in the expense system like this. 
 
 |Sub|Account| Debit  | Credit | Explanation |
 |----|-----| ------------- | ------------- |--------|
 |DE|Campaign Expense| $10,000.00  |   | Bill |
 |DE|Account Payable to Credit Card|   | $10,000.00  | Bill |
 
-Memo: Lisa's campaign cost in U.S.
+Memo: Lisa's campaign cost in U.S. (Lisa is a DE employee)
 (We assume the above part of job has been fully automated but the below part has yet to be automated.)
 
 ### Intercompany Transaction Journal
-However, these expenses are actually paid by another subsidiary, because Lisa is not an employee from our US subsidiary but an employee from German subsidiary. She come here to help. For some reasons, she spent this money out-of-pocket **or** from her German Corporate Credit Card. So this expense and money is recorded back to her own company - the German subsidiary.
+However, because Lisa is not an employee from your US subsidiary but an employee from your German subsidiary, these expenses are actually paid by DE. For some reasons, she spent this money out of her pocket *or* from her German Corporate Credit Card. So this bill is recorded back to her own company - the German subsidiary.
 
-Based on the above journal entry, the global accounting team needs to record an intercompany transaction journal which includes four lines of entries to transfer this expense from DE to US:
+Based on the above bill, the global accounting team needs to record an intercompany transaction journal, which includes four lines of entries, to transfer this expense from DE to US:
 
 |Sub|Automation| Debit  | Credit | Explanation |
 |----|-----| ------------- | ------------- |------------- |
@@ -56,15 +56,4 @@ Based on the above journal entry, the global accounting team needs to record an 
 
 Memo: Lisa's campaign cost in U.S.
 
-Together, we have:
-
-|Sub|Automation| Debit  | Credit | Explanation |
-|----|-----| ------------- | ------------- |------------- |
-|DE|~~Campaign Expense~~| ~~$10,000.00~~  |   | Bill Entry |
-|DE|Account Payable to Credit Card|   | $10,000.00  | Bill Entry |
-|DE|Account Receivable from U.S.| $10,000.00  |   | Intercompany Transaction |
-|DE|~~Campaign Expense~~|   | ~~$10,000.00~~  | Intercompany Transaction |
-|US|Account Payable to DE|   | $10,000.00  | Intercompany Transaction |
-|US|Campaign Expense| $10,000.00  |   | Intercompany Transaction |
-
-The automation of generating the last four lines of entries is the main target of this project.
+Our main target of this project is to generate the last four lines of entries based on the first two lines.
