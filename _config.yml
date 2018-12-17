@@ -123,9 +123,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
+    - label: " Linkedin"
       icon: "fab fa-linkedin-in"
-      url:  "https://www.linkedin.com/in/airyan030"
+      url: "https://www.linkedin.com/in/airyan030"
 
 # Site Footer
 footer:
