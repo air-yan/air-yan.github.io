@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: single
 mathjax: true
 toc: true
@@ -67,4 +67,6 @@ Memo: Lisa's campaign cost in U.S.
 3. Apply core function to each above group to create IC transactions
 4. For each "IC from subsidiary", create a csv file
 
+### Jupyter Notebook
+To view the Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
 
