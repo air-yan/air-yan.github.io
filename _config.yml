@@ -121,7 +121,7 @@ author:
       icon: "fab fa-weixin"
       # url: "/images/WechatID.jpeg"
     - label: "Zhihu"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       # url: "/images/zhihu_qr.jpeg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
