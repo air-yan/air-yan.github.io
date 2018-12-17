@@ -22,7 +22,7 @@ To make it easier to test and use your code, you can have
 - Sublime Text
 - Pyinstaller (to give this code to your colleagues who have no programing experience)
 
-# Accounting Requirement (scenario)
+# Scenario
 
 *You can quickly scan through or skip this part if you are well knowledged in intercompany transaction.*
 
@@ -55,7 +55,7 @@ Based on the above bill, the global accounting team needs to record an intercomp
 
 Memo: Lisa's campaign cost in U.S.
 
-## Requirement
+# Requirement
 
 1. Given a list of bills, classify them into different groups according to:
    - IC (intercompany) from subsidiary, the employee payroll sub -- it's DE in the above case
@@ -65,6 +65,6 @@ Memo: Lisa's campaign cost in U.S.
 3. Apply core function to each above group to create IC transactions
 4. For each "IC from subsidiary", create a csv file
 
-# Jupyter Notebook
+# Solution
 To view the solution in a Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
 
