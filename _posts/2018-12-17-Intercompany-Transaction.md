@@ -58,11 +58,13 @@ Based on the above bill, the global accounting team needs to record an intercomp
 Memo: Lisa's campaign cost in U.S.
 
 ### Requirement
-- Create a core function to generate the last four lines of entries based on the first two lines.
-- Given a list of bills
--- classify them into different groups according to:
---- subsidiary
---- reference number
---- subsidiary
+
+1. Given a list of bills, classify them into different groups according to:
+   - IC (intercompany) from subsidiary
+   - Bill reference number
+   - IC to subsidiary
+2. Create core function to transfer bills into IC transactions
+3. Apply core function to each above group to create IC transactions
+4. For each "IC from subsidiary", create a csv file
 
 
