@@ -57,4 +57,12 @@ Based on the above bill, the global accounting team needs to record an intercomp
 
 Memo: Lisa's campaign cost in U.S.
 
-Our main target of this project is to generate the last four lines of entries based on the first two lines.
+### Requirement
+- Create a core function to generate the last four lines of entries based on the first two lines.
+- Given a list of bills
+-- classify them into different groups according to:
+--- subsidiary
+--- reference number
+--- subsidiary
+
+
