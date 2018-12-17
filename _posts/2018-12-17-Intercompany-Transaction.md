@@ -13,7 +13,7 @@ title: Accounting Automation - Intercompany Transactions
 
 ## Intro and Preparation
 
-This post demonstrates how we can use Python and Pandas library to help us do intercompany transaction journal entries automatically. The scenario and the requirement in this post is easy to understand. In real life, it can be more complex and harder to be solved.
+This post demonstrates how we can use Python and Pandas library to help us do intercompany transaction journal entries automatically. The scenario and the requirement in this post is easy to understand. In real life, it can be more complex and need extra lines of codes to be solved.
 
 To use this code to automate your accounting process, you should have:
 - Python3 installed
