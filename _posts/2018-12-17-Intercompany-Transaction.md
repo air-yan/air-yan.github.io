@@ -57,7 +57,12 @@ Memo: Lisa's campaign cost in U.S.
 
 # Requirement
 
-1. Given a list of bills, classify them into different groups according to:
+Click [here](https://github.com/air-yan/air-yan.github.io/blob/master/excels/Report.xlsx) and click 'download' or 'view raw' to find the Excel file. (rest assured that this file does not include any macro)
+
+What we need to do is to transform the bill entries in the Excel file into IC transactions in csv format.
+
+Specifically:
+1. Given a long list of bill items, classify them into different groups according to:
    - IC (intercompany) from subsidiary, the employee payroll sub -- it's DE in the above case
    - Bill reference number -- unique key for bills
    - IC to subsidiary -- it's US in the above case
@@ -66,5 +71,13 @@ Memo: Lisa's campaign cost in U.S.
 4. For each "IC from subsidiary", create a csv file
 
 # Solution
-To view the solution in a Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
 
+To view the explanation and solution code in a Jupyter notebook, click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.ipynb).
+
+To view the code in a python file, click[here](https://github.com/air-yan/air-yan.github.io/blob/master/notebooks/IC%20automation%20demonstration.py).
+
+To test the solution, put the python file or jupyter notebook and the Excel file in a same directory and run the codes. You will find several csv files generated in the same directory.
+
+# Cheers!
+
+There are some tasks not only takes your time but also make you brain dead. With some extra knowledge, we can kill those brainless jobs and make you time more valuable. Cheers! :)
