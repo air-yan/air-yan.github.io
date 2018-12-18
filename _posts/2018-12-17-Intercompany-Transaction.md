@@ -59,7 +59,7 @@ Memo: Lisa's campaign cost in U.S.
 
 ![Excel Image](/images/Pandas Automation/screenshot_Excel report.png)
 
-According to the 'Subsidiary' marked red and the 'IC Subsidiary' marked yellow to generate IC transactions.
+In words, generate IC transactions and save them in a csv according to the 'Subsidiary' marked red and the 'IC Subsidiary' marked yellow.
 
 Click [here](https://github.com/air-yan/air-yan.github.io/blob/master/excels/Report.xlsx) then click 'download' or 'view raw' to find the Excel file. (rest assured that this file does not include any macro)
 
