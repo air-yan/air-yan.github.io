@@ -46,7 +46,7 @@ However, because Lisa is not an employee from your US subsidiary but an employee
 
 Based on the above bill, the global accounting team needs to record an intercompany transaction journal, which includes four lines of entries, to transfer this expense from DE to US:
 
-|Sub|Automation| Debit  | Credit | Explanation |
+|Sub|Account| Debit  | Credit | Explanation |
 |----|-----| ------------- | ------------- |------------- |
 |DE|Account Receivable from U.S.| $10,000.00  |   | Intercompany Transaction |
 |DE|Campaign Expense|   | $10,000.00  | Intercompany Transaction |
@@ -80,4 +80,4 @@ To test the solution, put the python file or jupyter notebook and the Excel file
 
 # Cheers!
 
-There are some tasks not only takes your time but also make you brain dead. With some extra knowledge, we can kill those brainless jobs and make you time more valuable. Cheers! :)
+With some extra knowledge, we can always automate boring and repetitive jobs. Let's release our brain from the messy tasks and do some innovations. Cheers! :)
