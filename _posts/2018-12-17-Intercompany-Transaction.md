@@ -5,8 +5,8 @@ mathjax: true
 toc: true
 toc_sticky: true
 category: Accounting Automation
-excerpt: "This post is to demonstrate how we can use Python to generate intercompany transaction journal entries automatically"
-title: Accounting Automation - Intercompany Transactions
+excerpt: "This post is to demonstrate how we can use Pandas library in Python to automate the process of creating intercompany transaction journal entries"
+title: Use Pandas to Automate Intercompany Transactions
 ---
 
 # Intro and Preparation
