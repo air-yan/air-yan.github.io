@@ -57,7 +57,11 @@ Memo: Lisa's campaign cost in U.S.
 
 # Requirement
 
-Click [here](https://github.com/air-yan/air-yan.github.io/blob/master/excels/Report.xlsx) and click 'download' or 'view raw' to find the Excel file. (rest assured that this file does not include any macro)
+![Excel Image](/images/Pandas Automation/screenshot_Excel report.png)
+
+According to the 'Subsidiary' marked red and the 'IC Subsidiary' marked yellow to generate IC transactions.
+
+Click [here](https://github.com/air-yan/air-yan.github.io/blob/master/excels/Report.xlsx) then click 'download' or 'view raw' to find the Excel file. (rest assured that this file does not include any macro)
 
 What we need to do is to transform the bill entries in the Excel file into IC transactions in csv format.
 
