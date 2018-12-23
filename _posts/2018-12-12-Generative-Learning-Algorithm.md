@@ -158,7 +158,7 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 
 ### 4.2 高斯判别分析（GDA）和逻辑回归
 
-高斯判别分析是如何与逻辑回归相关联的呢？我们可以发现如果上述p(x&#124;y) 是具有共享协方差的多元高斯，我们就可以计算p(x&#124;y)然后发现它是遵循逻辑函数的。要证明这一点，我们可以：
+高斯判别分析又是如何与逻辑回归相关联的呢？我们可以发现如果上述p(x&#124;y) 是具有共同协方差的多元高斯，我们就可以计算p(x&#124;y)并证明它是遵循逻辑函数的。要证明这一点，我们可以：
 
 ![image043.png](/images/Generative_Images/image043.png)
 
@@ -214,4 +214,4 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 ![image053.png](/images/Generative_Images/image053.png)
 
 
-其中k是类的数量。 在实际操作中，拉普拉斯平滑并没有太大的区别，因为我们的模型中通常包含了所有的单词，但有一个备用计划总是极好的！😊
+其中k是类的数量。在实际操作中，拉普拉斯平滑并没有太大的区别，因为我们的模型中通常包含了所有的单词。不过有个Plan B总是极好的~
