@@ -154,7 +154,7 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 ![image041.png](/images/Generative_Images/image041.png)
 
 
-请注意，由于有着共享协方差，因此上图两个轮廓的形状是相同的，但均值则不同。 在边界线上（自左上到右下的直线），每个类的概率为50%。
+请注意，由于有着同样的协方差，因此上图两个轮廓的形状是相同的，然而均值不同。在边界线这条线上（自左上到右下的直线），每个类的概率为50%。
 
 ### 4.2 高斯判别分析（GDA）和逻辑回归
 
