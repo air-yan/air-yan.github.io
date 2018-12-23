@@ -36,23 +36,23 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 
 ### 3.1 多元高斯正态分布
 
-在多元正态分布中，一个随机变量是一个在维度为n的R<sub>n</sub>空间中的矢量值。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中$ \\ Sigma是对称的半正定矩阵。其概率密度函数为：
+在多元正态分布中，一个随机变量是一个R<sub>n</sub>空间中的矢量值，其中n代表维度数。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中$ \\ Sigma是对称的半正定矩阵。其概率密度函数为：
 
 ![image001.png](/images/Generative_Images/image001.png)
 
-如上所述，μ是期望值。
+如上所述，μ代表期望值。
 
-向量值随机变量Z的协方差为：
+随机向量Z（或者说，向量化的随机变量Z）的协方差为：
 
 ![image003.png](/images/Generative_Images/image003.png)
 
 
-下图显示了均值为零但不同协方差的几个密度函数。
+下图显示了几个密度函数，它们的均值均为零，但协方差不同：
 
 ![image005.png](/images/Generative_Images/image005.png)
 
 
-以下为上图的协方差（从左到右）：
+上图的协方差为（从左到右）：
 
 ![image007.png](/images/Generative_Images/image007.png)
 
@@ -63,7 +63,7 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 
 ### 4.1 高斯判别分析
 
-我们再来谈谈二元分类的问题，我们可以用多元高斯模型对p(x&#124;y)进行建模。 总的来讲，我们有：
+我们再来谈谈二分类问题，我们可以用多元高斯模型对p(x&#124;y)进行建模。 总的来讲，我们有：
 
 ![image009.png](/images/Generative_Images/image009.png)
 
