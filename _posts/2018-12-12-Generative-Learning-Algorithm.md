@@ -86,10 +86,6 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 ![image015.png](/images/Generative_Images/image015.png)（如果A是对称的并且与x相互独立）
 
 
-
-
-![image017.png](/images/Generative_Images/image017.png)
-
 **证明：**
 矩阵A是对称矩阵，所以 *A*= *A*<sup>T</sup>并假设空间维度为n。
 
@@ -172,6 +168,12 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 ## 5 朴素贝叶斯
 
 在高斯判别分析中，随机变量应使用具有连续值特征的数据。 而朴素贝叶斯则用于学习离散值随机变量，如文本分类。在文本分类中，模型基于文本中的单词将文本标记为二进制类，单词被向量化并用于模型训练。一个单词向量就像一本字典一样，其长度是字典中单词储存的数量，其二进度值则代表着是否为某个词。 一个单词在单词向量中由1表示“是”，而单词向量中的其他位置则是0。
+
+比方说，一个Email的向量可以表示为：
+
+$$x = \begin{bmatrix} 1 \\ 1 \\ 0 \\ \vdots \\ 1 \\ \vdots  \end{bmatrix}$$
+
+其中前两个词可以是，“运动”和“篮球” 。（因为原著大佬很喜欢打篮球，所以这里他用了运动和篮球作为例子…）
 
 然而，这可能并不起作用。 比方说，如果我们有50,000个单词并尝试将其建模为多项式，则参数的维数为250,000-1,250,000-1，这太大了。 因此，为了解决这个问题，我们做出了
 
