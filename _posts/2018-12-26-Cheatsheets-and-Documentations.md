@@ -46,4 +46,4 @@ title: Cheatsheets and Documentation Links
 A simple map for selecting machine learning models:
 ![scikit_learn_map](/images/cheat_sheet/Scikit_learn_map.png)
 
-![scikit_learn_cheatsheet](/images/cheat_sheet/dataCamp/Scikit_Learn.pdf)
+[Cheatsheet for Scikit Learn](/images/cheat_sheet/dataCamp/Scikit_Learn.pdf)
