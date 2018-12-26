@@ -13,6 +13,7 @@ title: Cheatsheets and Documentation Links
 
 ### Python Basics
 
+
 ### Jupyter Notebook
 
 # Data processing and analysis
@@ -42,3 +43,4 @@ title: Cheatsheets and Documentation Links
 # Machine Learning
 
 ### Scikit Learn
+![scikit_learn_map](/images/cheat_sheet/Scikit_learn_map.png)
