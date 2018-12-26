@@ -36,7 +36,7 @@ Please note this post is a study note translated to Chinese by me. Click [here](
 
 ### 3.1 多元高斯正态分布
 
-在多元正态分布中，一个随机变量是一个R<sub>n</sub>空间中的矢量值，其中n代表维度数。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中$ \\ Sigma是对称的半正定矩阵。其概率密度函数为：
+在多元正态分布中，一个随机变量是一个R<sub>n</sub>空间中的矢量值，其中n代表维度数。因此，多元高斯的均值向量 μ∈R<sub>n</sub>，协方差矩阵Σ∈R<sub>n x n</sub> ，其中Σ是对称的半正定矩阵。其概率密度函数为：
 
 ![image001.png](/images/Generative_Images/image001.png)
 
