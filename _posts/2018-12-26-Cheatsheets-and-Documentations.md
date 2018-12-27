@@ -27,7 +27,7 @@ I am not a master of codes and even if I am, I believe I still need to look at t
 
 [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
-### Useful extention forJupyter Notebook
+### Jupyter Notebook Extensions (unofficial)
 
 Install
 ```
