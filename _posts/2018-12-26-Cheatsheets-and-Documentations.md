@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 category: Machine Learning
 excerpt: "Cheatsheets and documentations for commonly used libraries for data science projects"
-title: Cheatsheets and Documentation Links
+title: Cheatsheets and Documentations
 ---
 
 Hello there! Welcome to this page. This post is a summary for useful links and cheatsheets which can be found easily on the internet.
