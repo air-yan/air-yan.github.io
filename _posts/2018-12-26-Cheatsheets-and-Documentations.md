@@ -22,6 +22,12 @@ I am not a master of codes and even if I am, I believe I still need to look at t
 
 [Documentation](https://www.python.org/doc/)
 
+## Anaconda
+[Cheatsheet1](/images/cheat_sheet/conda-cheatsheet.pdf)
+[Cheatsheet2](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
+
+[Documentation](https://conda.io/docs/)
+
 ## Jupyter Notebook
 [Cheatsheet](/images/cheat_sheet/dataCamp/Jupyter_Notebook.pdf)
 
@@ -46,43 +52,43 @@ pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 [User Guide](https://docs.scipy.org/doc/numpy/user/)
 
 ## Scipy
-[Cheatsheet for Scipy](/images/cheat_sheet/dataCamp/SciPy_Linear_Algebra.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/SciPy_Linear_Algebra.pdf)
 
 [Reference](https://docs.scipy.org/doc/scipy/reference/)
 
 
 ## Pandas
-[Cheatsheet for Pandas](/images/cheat_sheet/dataCamp/Pandas_Basics.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/Pandas_Basics.pdf)
 
 [Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 
 # Visualizations
 
 ## Matplotlib
-[Cheatsheet for Matplotlib](/images/cheat_sheet/dataCamp/Matplotlib.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/Matplotlib.pdf)
 
 [Documentation](https://matplotlib.org/contents.html#)
 
 ## Seaborn
-[Cheatsheet for Seaborn](/images/cheat_sheet/dataCamp/Seaborn.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/Seaborn.pdf)
 
 [Homepage](https://seaborn.pydata.org/)
 
 ## Plotly
-[Cheatsheet for Plotly](/images/cheat_sheet/cheat_sheet_Plotly.pdf)
+[Cheatsheet](/images/cheat_sheet/cheat_sheet_Plotly.pdf)
 
 [Python Page](https://plot.ly/python/)
 
 
 ## Bokeh
-[Cheatsheet for Bokeh](/images/cheat_sheet/dataCamp/Bokeh.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/Bokeh.pdf)
 
 [Homepage](https://bokeh.pydata.org/en/latest/)
 
 # Machine Learning
 
 ## Scikit Learn
-[Cheatsheet for Scikit Learn](/images/cheat_sheet/dataCamp/Scikit_Learn.pdf)
+[Cheatsheet](/images/cheat_sheet/dataCamp/Scikit_Learn.pdf)
 
 [Homepage](https://scikit-learn.org/stable/documentation.html)
 
