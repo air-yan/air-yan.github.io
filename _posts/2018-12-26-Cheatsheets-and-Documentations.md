@@ -27,10 +27,14 @@ I am not a master of codes and even if I am, I believe I still need to look at t
 
 [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
-Useful extention forJupyter Notebook
+### Useful extention forJupyter Notebook
+
+Install
 ```
 pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 ```
+[Documentation](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
+
 
 # Data processing and analysis
 
