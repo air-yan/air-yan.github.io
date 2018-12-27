@@ -18,7 +18,7 @@ title: Cheatsheets and Documentation Links
 [Cheatsheet for Jupyter](/images/cheat_sheet/dataCamp/Jupyter_Notebook.pdf)
 
 Useful extention forJupyter Notebook
-```python
+```
 pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 ```
 
