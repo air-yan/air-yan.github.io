@@ -5,9 +5,13 @@ mathjax: true
 toc: true
 toc_sticky: true
 category: Machine Learning
-excerpt: "Cheatsheets and documentations of useful libraries"
+excerpt: "Cheatsheets and documentations for commonly used libraries for data science projects"
 title: Cheatsheets and Documentation Links
 ---
+
+This post is just a summary of useful links and cheatsheets which can be found easily on the internet. To be honest, I am not a master of codes and even if I am, I believe I still need to look at the documents from time to time.
+
+To reduce the time googling around, I'll put everything I need down here for reference.
 
 # Python Basics and Supports
 
