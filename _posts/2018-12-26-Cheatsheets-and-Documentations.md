@@ -23,9 +23,9 @@ I am not a master of codes and even if I am, I believe I still need to look at t
 [Documentation](https://www.python.org/doc/)
 
 ## Anaconda Prompt
-[Cheatsheet1](/images/cheat_sheet/conda-cheatsheet.pdf)
+[Cheat Sheet #1](/images/cheat_sheet/conda-cheatsheet.pdf)
 
-[Cheatsheet2](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
+[Cheat Sheet #2](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
 [Documentation](https://conda.io/docs/)
 
