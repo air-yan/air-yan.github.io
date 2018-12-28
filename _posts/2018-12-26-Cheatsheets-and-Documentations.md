@@ -42,6 +42,10 @@ pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 ```
 [Documentation](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
 
+## Git
+[Cheat Sheet](/images/cheat_sheet/git.pdf)
+
+[Documentation](https://git-scm.com/docs/gitcredentials)
 
 # Data processing and analysis
 
