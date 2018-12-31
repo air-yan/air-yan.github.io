@@ -1,9 +1,9 @@
 ---
 layout: archive
 author_profile: true
-title: Data Science Notes
+title: AI Learning Hub
 share: false
-permalink: /data_science/
+permalink: /machine_learning/
 ---
 
 
@@ -19,7 +19,7 @@ permalink: /data_science/
 	<h2 class="archive__subtitle">2018</h2>
 	<div class="entries-{{ page.entries_layout | default: 'list' }}">
 	    <h2 class="archive__item-title" itemprop="headline">
-	        <a href="copy post url here" rel="permalink">Generative Algorithm Chinese Version</a>
+	        <a href="https://air-yan.github.io/machine%20learning/Generative-Learning-Algorithm/" rel="permalink">Generative Algorithm Chinese Version</a>
 	    </h2>
 	    <p class="archive__item-excerpt" itemprop="description">{{ "copy excerpt here" | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
