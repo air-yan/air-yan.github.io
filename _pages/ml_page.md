@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-title: AI Learning Hub
+title: Machine Learning
 share: false
 permalink: /machine_learning/
 ---
