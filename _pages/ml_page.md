@@ -15,13 +15,21 @@ permalink: /machine_learning/
     </li>
 </ul>
 
+<ul class="taxonomy__index">
+    <li>
+      <a href="#2019">
+        <strong>2019</strong> <span class="taxonomy__count">1</span>
+      </a>
+    </li>
+</ul>
+
 <section id="2018" class="taxonomy__section">
 	<h2 class="archive__subtitle">2018</h2>
 	<div class="entries-{{ page.entries_layout | default: 'list' }}">
 	    <h2 class="archive__item-title" itemprop="headline">
 	        <a href="https://air-yan.github.io/machine%20learning/Generative-Learning-Algorithm/" rel="permalink">Generative Algorithm Chinese Version</a>
 	    </h2>
-	    <p class="archive__item-excerpt" itemprop="description">{{ "copy excerpt here" | markdownify | strip_html | truncate: 160 }}</p>
+	    <p class="archive__item-excerpt" itemprop="description">{{ "Posts in 2018" | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
 	<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
@@ -31,7 +39,7 @@ permalink: /machine_learning/
 	<div class="entries-{{ page.entries_layout | default: 'list' }}">
 	    <h2 class="archive__item-title" itemprop="headline">
 	    </h2>
-	    <p class="archive__item-excerpt" itemprop="description">{{ "copy excerpt here" | markdownify | strip_html | truncate: 160 }}</p>
+	    <p class="archive__item-excerpt" itemprop="description">{{ "Posts in 2019" | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
 	<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
