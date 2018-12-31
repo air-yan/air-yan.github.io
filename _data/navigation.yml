@@ -8,6 +8,8 @@ main:
 #     url: https://air-yan.github.io/research/
   - title: "Blog"
     url: https://air-yan.github.io/blog/
+  - title: "Machine Learning"
+    url: https://air-yan.github.io/machine_learning/
 #   - title: "Categories"
 #     url: https://air-yan.github.io/categories/
 #   - title: "Tags"
