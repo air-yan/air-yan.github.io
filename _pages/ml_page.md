@@ -35,7 +35,7 @@ permalink: /machine_learning/
 </section>
 
 <section id="2019" class="taxonomy__section">
-	<h2 class="archive__subtitle">2018</h2>
+	<h2 class="archive__subtitle">2019</h2>
 	<div class="entries-{{ page.entries_layout | default: 'list' }}">
 	    <h2 class="archive__item-title" itemprop="headline">
 	    </h2>
