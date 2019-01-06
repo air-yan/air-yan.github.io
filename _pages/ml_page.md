@@ -29,7 +29,7 @@ permalink: /machine_learning/
 	    <h2 class="archive__item-title" itemprop="headline">
 	        <a href="https://air-yan.github.io//MachineLearning/sv_generative_model_ch/" rel="permalink">Generative Algorithm Chinese Version</a>
 	    </h2>
-	    <p class="archive__item-excerpt" itemprop="description">{{ "Posts in 2018" | markdownify | strip_html | truncate: 160 }}</p>
+	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a translation for one of Wei's posts in his machine learning notes." | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
 	<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
