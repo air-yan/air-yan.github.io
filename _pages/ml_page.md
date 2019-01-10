@@ -38,8 +38,9 @@ permalink: /machine_learning/
 	<h2 class="archive__subtitle">2019</h2>
 	<div class="entries-{{ page.entries_layout | default: 'list' }}">
 	    <h2 class="archive__item-title" itemprop="headline">
+	        <a href="https://air-yan.github.io//MachineLearning/sv_svm_ch/" rel="permalink">Support Vector Machine Chinese Version</a>
 	    </h2>
-	    <p class="archive__item-excerpt" itemprop="description">{{ "Posts in 2019" | markdownify | strip_html | truncate: 160 }}</p>
+	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a translation for one of Wei's posts in his machine learning notes." | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
 	<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
