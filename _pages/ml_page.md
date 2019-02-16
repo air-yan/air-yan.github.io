@@ -42,7 +42,7 @@ permalink: /machine_learning/
 	    </h2>
 	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a translation for one of Wei's posts in his machine learning notes." | markdownify | strip_html | truncate: 160 }}</p>
 		<h2 class="archive__item-title" itemprop="headline">
-	        <a href="https://air-yan.github.io//MachineLearning/sv_tree_ch/" rel="permalink">Decision Tree Chinese Version</a>
+	        <a href="https://air-yan.github.io//MachineLearning/sv_trees_ch/" rel="permalink">Decision Tree Chinese Version</a>
 	    </h2>
 	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a translation for one of Wei's posts in his machine learning notes." | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
