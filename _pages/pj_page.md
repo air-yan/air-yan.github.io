@@ -30,7 +30,7 @@ permalink: /projects_and_analyses/
 	    </h2>
 	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a demo of one of my programs. It explains how to extract information from invoices or receipts" | markdownify | strip_html | truncate: 160 }}</p>
         <h2 class="archive__item-title" itemprop="headline">
-	        <a href="https://air-yan.github.io/accounting%20automation/Intercompany-Transaction/" rel="permalink">Invoice OCR Project</a>
+	        <a href="https://air-yan.github.io/accounting%20automation/Intercompany-Transaction/" rel="permalink">Pandas Project - Intercompany Transactions</a>
 	    </h2>
 	    <p class="archive__item-excerpt" itemprop="description">{{ "This post is a demo of one of my programs. It explains how to use Pandas to automate accounting tasks" | markdownify | strip_html | truncate: 160 }}</p>
 	</div>
