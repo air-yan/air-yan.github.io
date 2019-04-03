@@ -12,8 +12,6 @@ share: true
 author_profile: true
 ---
 
-# Invoice OCR and Extract
-
 I'm so excited to write this post! This post is an introduction of the OCR project I write on my own. It's a mixture of various areas of learning including accounting, coding, string extraction, computer vision and OCR.
 
 The github project is currently in private status, but it will be open to public once the accuracy achieves the desired level.
