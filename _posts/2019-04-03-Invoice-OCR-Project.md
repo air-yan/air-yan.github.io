@@ -16,8 +16,8 @@ I'm so excited to write this post! This post is an introduction of the OCR proje
 
 The github project is currently in private status, but it will be open to public once the accuracy achieves the desired level.
 
-## Main Object
-The main object of the project is to create a back-end program which can recognise invoices sent from the vendors to your company and automatically extract important information that accounting department needs as the input of data entries.
+## Main Objective
+The main objective of the project is to create a back-end program which can recognise invoices sent from the vendors to your company and automatically extract important information that accounting department needs as the input of data entries.
 
 The target accuracy is 80%. Remember that this is an automation project, not a personal practice (well actually it is ;P), so an accuracy less than 80% means that you probably will bring more troubles to the team than conveniences.
 
@@ -38,7 +38,7 @@ Therefore, when extracting information from PDFs, we are more focused on the str
 
 If time allowed, I will add the receipt feature into the project in the future.
 
-## Little Details
+## Fine Details
 The plan of the process can be described as below:
 
 ### Classification and Extraction
@@ -62,9 +62,11 @@ Think that is the end of the program? No. What we get from the string matching p
 
 A scoring process which scores the output of the above process can improve the accuracy dramatically. Think the biggest problem we faced in previous section - it's the structure of the strings. What if we analyse the invoices multiple times using different engines and different parameters? We can have many different results. By scoring those results and getting the best result out of them, we improve the accuracy of the program.
 
+The module used here is python-Levenshtein. It measures the distance between two strings. In other words, it count the modifications needed to modify one string to match another string. We can use the count as a scoring tool - the higher the count, the lower the score.
+
 ## End of story
 
-Thank you for your time reading this. If you are interested and have any questions, please contact me anytime.
+Thank you for your time reading this. I will be updating this post regularly. If you are interested and have any questions, please contact me anytime.
 
 Cheers! =)
 
