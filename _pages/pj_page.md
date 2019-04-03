@@ -9,7 +9,7 @@ permalink: /projects_and_analyses/
 <ul class="taxonomy__index">
     <li>
       <a href="#Automation">
-        <strong>Automation Projects</strong> <span class="taxonomy__count">1</span>
+        <strong>Automation Projects</strong> <span class="taxonomy__count">2</span>
       </a>
     </li>
 </ul>
@@ -17,7 +17,7 @@ permalink: /projects_and_analyses/
 <ul class="taxonomy__index">
     <li>
       <a href="#DataAnalysis">
-        <strong>Data Analysis</strong> <span class="taxonomy__count">1</span>
+        <strong>Data Analysis</strong> <span class="taxonomy__count">0</span>
       </a>
     </li>
 </ul>
