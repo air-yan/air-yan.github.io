@@ -49,11 +49,11 @@ If the format is PDF (well most of the cases I'm facing is PDF), we check the na
 It's quite interesting to try and see the impact of different conditions of the images. Computer vision is a powerful tool.
 
 ### String Matching
-<span style = "color: grey">*Don't read this paragraph, please. String matching is the most demotivating part in this project! I hate it! I have to try different Regexs and change it everytime when I finish a test... it's time-consuming and stupid... God, please send me a free engineer to help me out... Enough for complaining.*<span/>
+<span style = "color: grey">*Don't read this paragraph, please. String matching is the most demotivating part in this project! I hate it! I have to try different Regexs and change it everytime when I finish a test... it's time-consuming and stupid... God, please send me a free engineer to help me out... Enough for complaining.*</span>
 
 I assume everyone read this knows what Regex is and knows at least a little bit of how it works. If you don't, just know that it's a fuzzy matcher that can extract strings by different expressions.
 
-The reason why I use regex here is that the strings extracted from an invoice can be badly structured. We can't control that nature because every invoice is different. Therefore, regex is what we need to extract strings from a pile of unstructured strings. <span style = "color: grey">*What a nightmare...*<span/> I believe if we were dealing with receipts, there are better options available.
+The reason why I use regex here is that the strings extracted from an invoice can be badly structured. We can't control that nature because every invoice is different. Therefore, regex is what we need to extract strings from a pile of unstructured strings. <span style = "color: grey">*What a nightmare...*</span> I believe if we were dealing with receipts, there are better options available.
 
 We can build different regex for different features and requirements.
 
