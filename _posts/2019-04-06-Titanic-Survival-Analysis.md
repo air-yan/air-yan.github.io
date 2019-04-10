@@ -31,6 +31,6 @@ This is a practice for data science analysis. This is not yet finished but alrea
 - Validation
 - Model Improvement
 
-Click [here](https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/EDA%20on%20Titanic.ipynb) or the link below to view the Jupyter Notebook.
+Click [here](https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb) or the link below to view the Jupyter Notebook.
 
-https://nbviewer.jupyter.org/github/air-yan/air-yan.github.io/blob/master/notebooks/EDA%20on%20Titanic.ipynb
+https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb
