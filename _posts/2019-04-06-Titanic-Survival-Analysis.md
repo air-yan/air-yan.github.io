@@ -34,3 +34,6 @@ This is a practice for data science analysis. This is not yet finished but alrea
 Click [here](https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb) or the link below to view the Jupyter Notebook.
 
 https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb
+https://github.com/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb
+
+P.S.: if you have problem loading the entire notebook in the first link, use the second one.
