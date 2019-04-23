@@ -9,6 +9,12 @@ excerpt: "Titanic Analysis"
 title: Titanic Suvival Analysis
 ---
 
+Use the link below to view the Jupyter Notebook. If you have problem loading the entire notebook in the first link, please use the second one.
+
+- [Jupyter Viewer](https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb)
+- [HTML Viewer](https://htmlpreview.github.io/?https://github.com/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.html)
+- [Source ipython notebook](https://github.com/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb)
+
 This is a practice for data science analysis. This is not yet finished but already has all the sections a project should have. I will be updating the jupyter notebook constantly.
 
 **The targats for this practice:**
@@ -30,9 +36,3 @@ This is a practice for data science analysis. This is not yet finished but alrea
 - Model Selection
 - Validation
 - Model Improvement
-
-Use the link below to view the Jupyter Notebook. If you have problem loading the entire notebook in the first link, please use the second one.
-
-https://nbviewer.jupyter.org/github/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb
-
-https://github.com/air-yan/kaggle_analysis/blob/master/EDA%20on%20Titanic.ipynb
