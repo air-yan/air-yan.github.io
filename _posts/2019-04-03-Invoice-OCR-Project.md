@@ -14,7 +14,7 @@ author_profile: true
 
 I'm so excited to write this post. It is an introduction of the OCR project which I write on my own. It's a mixture of various areas of learning including accounting, coding, string extraction, computer vision and OCR.
 
-The github project is public now. Click [here](https://github.com/air-yan/Invoice-Receipt-OCR) to find the repository. The testing files and images are not shared due to credential reasons.
+The github project is public now. Click [here](https://github.com/air-yan/InvoiceOCR) to find the repository. The testing files and images are not shared due to credential reasons.
 
 ## Main Objective
 The main objective of the project is to create a back-end program which can recognise invoices sent from the vendors to your company and automatically extract important information that accounting department needs as the input of data entries.
